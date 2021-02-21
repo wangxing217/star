@@ -16,7 +16,7 @@ Linear combinations spans and bases. 向量的**线性组合(Combinations)** 和
    The basis of a vector space is a set of **linerly independent** vectors that span the full space.    
    向量空间的 **一组基** 是张成该 **空间** 的一个 **线性无关** 向量集
 
-## Chapter 3
+## [Chapter 3] {#cpt3}
 Matrix as linear transformations.  矩阵 和 线性变换 的关系   
 1. Linear **transformations**   
    transformations 本质上就是函数，输入一个向量$\vec{v}$，经过函数$L(\vec{v})$，输出一个向量$\vec{w}$
@@ -77,7 +77,7 @@ $$
 现在来理解一下 **矩阵** ，每一列其实就是变换后的新基，例如 $3\*3$ 的矩阵，那么表示的就是原始的三维空间中的三个基在变换后的基，如果此时是 $3\*2$，那么表示的就是原始的3个基在做变换的时候，向低维空间投影了，换句话数就是舍掉了一维。
 ## Chapter 4 
 Matrix multiplication as composition 线性复合变换 和 矩阵乘法
-
+<a id = cpt3>标题</a>
 ## Chapter 5 
 The determinant 行列式
 
