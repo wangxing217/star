@@ -17,8 +17,22 @@ Linear combinations spans and bases. 向量的**线性组合(Combinations)** 和
    向量空间的 **一组基** 是张成该 **空间** 的一个 **线性无关** 向量集
 
 ## Chapter 3
-Matrix as linear transformations.  矩阵 和 线性变换 的关系
-
+Matrix as linear transformations.  矩阵 和 线性变换 的关系   
+1. Linear **transformations**   
+   transformations 本质上就是函数，输入一个向量$\vec{v}$，经过函数$L(\vec{v})$，输出一个向量$\vec{w}$
+$$
+\begin{pmatrix}
+2\\ 
+3
+\end{pmatrix}
+\rightarrow 
+L(\vec{v})
+\rightarrow 
+\begin{pmatrix}
+4\\ 
+25
+\end{pmatrix}
+$$
 ## Chapter 4 
 Matrix multiplication as composition 线性复合变换 和 矩阵乘法
 
