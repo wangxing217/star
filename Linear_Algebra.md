@@ -22,14 +22,14 @@ Matrix as linear transformations.  矩阵 和 线性变换 的关系
    transformations 本质上就是函数，输入一个向量$\vec{v}$，经过函数$L(\vec{v})$，输出一个向量$\vec{w}$
 $$
 \begin{pmatrix}
-2\\ 
+2\\   
 3
 \end{pmatrix}
 \rightarrow 
 L(\vec{v})
 \rightarrow 
 \begin{pmatrix}
-4\\ 
+4\\   
 25
 \end{pmatrix}
 $$
