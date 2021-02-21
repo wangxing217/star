@@ -11,6 +11,7 @@ Linear combinations spans and bases. 向量的线性组合和它张成的空间 
 $$ a*\vec{v}+b*\vec{w} $$
 The 'span' of $\vec{v}$ and $\vec{w}$ is the set of all their linear combinations.   
 这里的span就是指这两个向量的**线性组合**张成的空间，也就是所以线性组合的集合。
+The \color{red}{test}
 ## Chapter 3
 Matrix as linear transformations.  矩阵 和 线性变换 的关系
 
