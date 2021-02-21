@@ -46,7 +46,7 @@ x_{out}\\
 y_{out}
 \end{pmatrix}
 $$
-
+变换矩阵中的给个列向量 可以看作是 **新基** 。
 ## Chapter 4 
 Matrix multiplication as composition 线性复合变换 和 矩阵乘法
 
