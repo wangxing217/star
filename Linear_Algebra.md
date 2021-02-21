@@ -31,7 +31,9 @@ L(\vec{v})
 \begin{pmatrix}
 4\\   
 25
-\end{pmatrix}   
+\end{pmatrix} 
+$$
+$$
 \begin{pmatrix}
 x_{in}\\ 
 y_{in}
