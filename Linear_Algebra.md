@@ -7,7 +7,7 @@ Vector, what even they are ? 什么是向量
    2.向量的运算其实 无非就是加法和乘法。加法是位移，乘法是缩放，标量scalar 其实scaling 缩放。
 
 ## Chapter 2
-Linear combinations spans and bases. 向量的**线性组合(Combinations)** 和它张成的 **空间(span)** 和 **基(basis)** 。  
+Linear combinations spans and bases. 向量的**线性组合(Combinations)** 和它张成的 **空间(span)** 和 **基(basis)** 。   
 1.线性组合 $$ a*\vec{v}+b*\vec{w} $$
 2.空间(span)
 The 'span' of $\vec{v}$ and $\vec{w}$ is the set of all their linear combinations.   
