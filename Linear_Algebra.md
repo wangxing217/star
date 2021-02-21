@@ -81,6 +81,7 @@ Matrix multiplication as composition 线性复合变换 和 矩阵乘法
 
 ## Chapter 5 
 The determinant 行列式   
+问题的引出：在我们知道了矩阵乘法是对向量进行 **旋转或者拉伸** 后，那么这个左乘的矩阵到底对向量影响多大呢？其实也就是对旧的基的影响。
 表示的是 线性变换对 '体积' 造成的影响。
 
 ## Chapter 6
