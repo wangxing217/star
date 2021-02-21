@@ -80,7 +80,8 @@ Matrix multiplication as composition 线性复合变换 和 矩阵乘法
 复合变换 和 矩阵乘法的关系就是 复合函数 $f(g(\vec{x}))$
 
 ## Chapter 5 
-The determinant 行列式
+The determinant 行列式   
+表示的是 线性变换对 '体积' 造成的影响。
 
 ## Chapter 6
 Inverse matrices, column space and null space 行列式
