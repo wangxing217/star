@@ -49,26 +49,26 @@ $$
 变换矩阵中的给个列向量 可以看作是 **新基** 。
 $$
 \begin{bmatrix}
-a &b \\ 
+a &b \\     
 c &d
 \end{bmatrix}
 \begin{bmatrix}
-x \\ 
+x \\     
 y
 \end{bmatrix}
 =x
 \begin{bmatrix}
-a \\ 
+a \\      
 c
 \end{bmatrix}
 +y
 \begin{bmatrix}
-b \\ 
+b \\      
 d
 \end{bmatrix}
 =
 \begin{bmatrix}
-ax+by \\ 
+ax+by \\       
 cx+dy
 \end{bmatrix}
 $$
