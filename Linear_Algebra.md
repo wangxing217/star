@@ -33,6 +33,18 @@ L(\vec{v})
 25
 \end{pmatrix}
 $$
+
+\begin{pmatrix}
+x_{in}\\ 
+y_{in}
+\end{pmatrix}
+\rightarrow 
+???
+\rightarrow 
+\begin{pmatrix}
+x_{out}\\ 
+y_{out}
+\end{pmatrix}
 ## Chapter 4 
 Matrix multiplication as composition 线性复合变换 和 矩阵乘法
 
