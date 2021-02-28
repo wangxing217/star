@@ -102,8 +102,10 @@ Dot products and cross products 点积与叉积
 ## Chapter 8 
 Change of basis 基变换
 
+
 ## Chapter 9 
 Eigenvectors and eigenvaluse 特征值和特征向量
+特征向量：就是在变换之后，仍保留在原来向量张成的空间，只是被缩放了，没有被旋转，这组向量就是特征向量。特征值，就是缩放的大小。例如 三维动画中 绕一个轴旋转的轴 就是一组特征向量。
 
 ## Chapter 10 
 Abstract space vector spaces 抽象的向量空间
