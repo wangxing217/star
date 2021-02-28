@@ -95,8 +95,8 @@ $A^{-1}A=I$
 
 对于非方阵的情况：例如一个 **3*2** 的矩阵，它表明输入空间是2维的，但是基变换后升到 3维空间了，如果是非线性变换，那么很可能将二维不可分的数据变成3维可分的。
 ## Chapter 7
-Dot products and cross products 点积与叉积
-点积：$\vec{U}\cdot\vec{V}$ 之前理解的是投影，这是对的，但是实际上我们可以看作是 $\vec{U},\vec{V}$ 的一个转换，那么 $[U_{x},U_{y}]$ 可以看做是$\vec{i},\vec{j}$ 的投影后的新基的坐标。
+Dot products and cross products 点积与叉积   
+点积：$\vec{u}\cdot\vec{v}$ 之前理解的是投影，这是对的，但是实际上我们可以看作是 $\vec{u},\vec{v}$ 的一个转换，那么 $[u_{x},u_{y}]$ 可以看做是$\vec{i},\vec{j}$ 的投影后的新基的坐标。
 
 
 ## Chapter 8 
