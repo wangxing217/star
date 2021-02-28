@@ -85,7 +85,7 @@ The determinant 行列式
 答案：行列式表示的就是这个影响，即 线性变换对旧基的 '空间' 造成的影响。 当行列式为0时，表示将空间压缩到了0. 也就是降维了。
 
 ## Chapter 6
-Inverse matrices, column space, rank and null space 逆矩阵，列空间，零空间 秩 和 零空间。
+Inverse matrices, column space, rank and null space 逆矩阵，列空间，零空间 秩 和 零空间。   
 逆矩阵：左乘一个矩阵等于一次变换，那么在左乘一个矩阵将它变回来就是这个矩阵的逆矩阵，也就是矩阵和逆矩阵的 乘积 等于什么也没做，这个什么也没做就是 单位阵。
 $$A^{-1}*A=I$$
 
