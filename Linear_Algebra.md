@@ -97,7 +97,7 @@ $A^{-1}A=I$
 ## Chapter 7
 Dot products and cross products 点积与叉积   
 **点积**：$\vec{u}\cdot\vec{v}$ 之前理解的是投影，这是对的，但是实际上我们可以看作是 $\vec{u},\vec{v}$ 的一个转换，那么 $[u_{x},u_{y}]$ 可以看做是$\vec{i},\vec{j}$ 的投影后的新基的坐标。也就是说新基是将原来的二维降到了一维，而且新基方向就是 $\vec{u}$ 的方向。值等于 $u_{x}*v_{x}+u_{y}*v_{y} = v^{'}_{u}$ .    
-注意：正交变换 是一种特殊变换，他能使得 点击不变。$T(\vec{u})\cdotT(\vec{v})=\vec{u}\cdot\vec{v}$.
+注意：正交变换 是一种特殊变换，他能使得 点击不变。$T(\vec{u})\cdot T(\vec{v})=\vec{u}\cdot\vec{v}$.
 
 
 **叉积**：
