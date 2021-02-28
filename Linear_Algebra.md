@@ -87,7 +87,10 @@ The determinant 行列式
 ## Chapter 6
 Inverse matrices, column space, rank and null space 逆矩阵，列空间，零空间 秩 和 零空间。   
 逆矩阵：左乘一个矩阵等于一次变换，那么在左乘一个矩阵将它变回来就是这个矩阵的逆矩阵，也就是矩阵和逆矩阵的 乘积 等于什么也没做，这个什么也没做就是 单位阵。
-$$A^{-1}*A=I$$
+$A^{-1}*A=I$   
+秩：就是压缩后的空间维数
+列空间：矩阵的列是 变换后的基向量，这些基向量张成的空间就交 列空间，也就是 $\vec{A}\vec{v}$ 构成的空间。
+
 
 ## Chapter 7
 Dot products and cross products 点积与叉积
